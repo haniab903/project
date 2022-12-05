@@ -1,0 +1,83 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 16px;
+    margin: 0 0 0 0;
+    padding: 0 e e e;
+    }
+    
+    h1 {
+    font-family: Tahoma, Arial, Helvetica, sans-serif; 
+    color: white; 
+    letter-spacing:-2px;
+    margin-bottom: Opx;
+    }
+    h2{ color: #f1c0df;}
+    h4{  font-style:italic;
+        margin-top: 0px;}
+    main {
+    background-color: white
+    }
+    header {
+        background-color: #b8e4ea;
+    }
+    main, header, footer {
+        padding: 5px 5px 5px;
+    }
+    section {
+        padding-left: 5px;
+    }
+    .center {
+        text-align: center;
+    }
+    footer {
+        font-size:x-small;
+        text-align: center;
+        background-color: #d2afe8; 
+        line-height: 2em;
+    }
+    nav{ background-color: #d2afe8;}
+    nav a {color: #ffc8ff;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight:bold;
+        padding: 10px 3px 10px 3px; }
+    
+    nav a:hover{ color: white; 
+        text-decoration: underline; }
+
+    ul {
+        list-style-image:url('whitesquare.gif'); 
+    }
+    header { 
+        background: url(seed.of_.life_.jpg) #ffc8ff no-repeat; 
+        background-size: 60px 60px;
+        background-position: 20px 10px;
+        padding-left: 100px;
+        height: 75px;
+    }
+#layout {
+    background-color: #b8e4ea;
+}
+aside#contact { 
+    padding: 10px; 
+    font-size: small;
+    border: thin plum dashed;
+    width: 25%; 
+    float: right; 
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #333;
+    background-color: #b8e4ea;
+    background: linear-gradient(0deg, #b8e4ea, #ffc, #b8e);
+}
+section{ 
+    background: url(pexels-alexey-demidov-11075152.jpg) white no-repeat; 
+    background-size: cover;
+    background-position: top center;
+    height: 350px;
+    box-sizing: border-box;
+    padding: 300px 0 0 100px;
+}
+  h2 { 
+    color: #f1c0df;
+    text-shadow: 2px 2px 30px black;
+  }      
